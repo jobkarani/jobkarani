@@ -35,13 +35,6 @@ development.
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=jobkarani&">
 </a><br>
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3><br>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/job-karani/"></a>
-<a href="mailto:mwikali119@gmail.com"></a>
- 
-</p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
 

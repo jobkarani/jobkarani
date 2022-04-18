@@ -11,7 +11,7 @@ development.
 <h3> 🌱 Current project </h3>
 
 - Creating a Django-Ecommerce system. 😎
-- Learning PHP <Beginner>. 
+- Learning Java <Beginner>. 
 
 <h3> 🔮 Next project </h3>
 

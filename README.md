@@ -22,7 +22,7 @@ development.🧑‍💻
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobkarani&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jobkarani&theme=gotham&custom_title=CodeMonkey's%20github%20stats" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jobkarani&layout=compact&show_icons=true&theme=tokyonight&custom_title=CodeMonkey's%20github%20stats" /></td>
 </table>
 </center>
 

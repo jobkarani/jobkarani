@@ -15,14 +15,14 @@ development.🧑‍💻
 
 <h3> 🔮 Next project </h3>
 
-- Learning React and React-Native 📖<br>
+- 📖<br>
 
 
 <center>
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobkarani&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jobkarani&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jobkarani&theme=gotham&custom_title=Crispus%20github%20stats" /></td>
 </table>
 </center>
 

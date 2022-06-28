@@ -8,10 +8,13 @@ from just an idea or a problem 😊. I'm looking for a position whereby I'll be 
 fully apply the knowledge and skills that I have learnt so far in software
 development.🧑‍💻
 
+<h3> 🌱 Past project </h3>
+
+- Created a Django e-commerce system <a href="https://bonjoe.herokuapp.com/">View</a> 😎
+
 <h3> 🌱 Current project </h3>
 
-- Creating a Django-Ecommerce system. 😎
-- Learning Java <Beginner>. 
+- 100 Days of Javascript(React) 😎
 
 <h3> 🔮 Next project </h3>
 

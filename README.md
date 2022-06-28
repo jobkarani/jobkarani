@@ -10,7 +10,7 @@ development.🧑‍💻
 
 <h3> 🌱 Past project </h3>
 
-- Created a Django e-commerce system <a href="https://bonjoe.herokuapp.com/">View</a> 😎
+- Created a Django e-commerce system <a href="https://bonjoe.herokuapp.com/" target="_blank">View</a> 😎
 
 <h3> 🌱 Current project </h3>
 

@@ -1,7 +1,5 @@
 <h2> Hey there 👋🏾 I'm Job</h2>
 
-<h3> &nbsp;👩🏾‍💻 About Me </h3>
-
 Make it work, make it right, make it fast.😊. Simplicity is the soul of efficiency.🧑‍💻
 
 <h3> 🌱 Current project </h3>

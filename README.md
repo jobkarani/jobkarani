@@ -2,24 +2,11 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I'm a highly focused Full Stack Web Developer who is a team player. I love
-programming and the thrill that comes in creating a fully functional application
-from just an idea or a problem 😊. I'm looking for a position whereby I'll be able to
-fully apply the knowledge and skills that I have learnt so far in software
-development.🧑‍💻
-
-<h3> 🌱 Past project </h3>
-
-- Created a Django e-commerce system <a href="https://bonjoe.herokuapp.com/" target="_blank">View</a> 😎
+Make it work, make it right, make it fast.😊. Simplicity is the soul of efficiency.🧑‍💻
 
 <h3> 🌱 Current project </h3>
 
-- 100 Days of Javascript(React) 😎
-
-<h3> 🔮 Next project </h3>
-
-- 📖<br>
-
+- 100 Days of Javascript(Angular) 😎
 
 <center>
 <table>

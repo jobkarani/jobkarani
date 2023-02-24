@@ -6,6 +6,7 @@ Make it work, make it right, make it fast.😊. Simplicity is the soul of effici
 <table>
   <tr>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jobkarani&contribs&count_private=true&layout=compact&show_icons=true&theme=tokyonight&custom_title=CodeMonkey's%20github%20stats" /></td>
+  </tr>
 </table>
 </center>
 

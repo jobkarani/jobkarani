@@ -2,14 +2,9 @@
 
 Make it work, make it right, make it fast.😊. Simplicity is the soul of efficiency.🧑‍💻
 
-<h3> 🌱 Current project </h3>
-
-- 100 Days of Javascript(Angular) 😎
-
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobkarani&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jobkarani&contribs&count_private=true&layout=compact&show_icons=true&theme=tokyonight&custom_title=CodeMonkey's%20github%20stats" /></td>
 </table>
 </center>
